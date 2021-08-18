@@ -277,7 +277,7 @@ const menu = [
     },
     {
       id: 35,
-      title: "Code Pen",
+      title: "Color Mind",
       category: "color",
       link: 'http://colormind.io',
       img: "./src/asset-35.jpg",
@@ -301,7 +301,7 @@ const menu = [
     },
     {
       id: 38,
-      title: "Code Pen",
+      title: "Indonesia X",
       category: "course",
       link: 'https://www.indonesiax.co.id',
       img: "./src/asset-38.jpg",
@@ -1990,7 +1990,7 @@ const menu = [
     {
       id: 248,
       title: "SINTA",
-      category: "course",
+      category: "journal",
       link: 'https://sinta.ristekbrin.go.id/journals',
       img: "./src/asset-248.jpg",
       desc: `International Journal of Evaluation and Research in Education (IJERE): Institute of Advanced Engineering and Science (IAES)`,
@@ -2011,6 +2011,81 @@ const menu = [
       img: "./src/asset-250.jpg",
       desc: `Upwork connects businesses with freelancers, independent talent, and agencies around the globe.`,
     },
+    {
+      id: 251,
+      title: "Jobs CheatSheet",
+      category: "cheatsheet",
+      link: 'https://docs.google.com/spreadsheets/d/12VnIPTO24m7_UKG_7SqTyUSwqRQRfgp_edLJNkKuMNE/edit#gid=1242740900',
+      img: "./src/asset-251.jpg",
+      desc: `CheatSheet for you to looking jobs`,
+    },
+    {
+      id: 252,
+      title: "Intern CheatSheet",
+      category: "cheatsheet",
+      link: 'https://docs.google.com/spreadsheets/d/1JLkDtQwbuRm1hpL0NAkdjbHUl_C87RUof07YbcrdyhU/edit#gid=958041414',
+      img: "./src/asset-252.jpg",
+      desc: `CheatSheet for you to looking jobs`,
+    },
+    {
+      id: 253,
+      title: "UIUX CheatSheet",
+      category: "cheatsheet",
+      link: 'https://docs.google.com/spreadsheets/d/12VnIPTO24m7_UKG_7SqTyUSwqRQRfgp_edLJNkKuMNE/edit#gid=1242740900',
+      img: "./src/asset-253.jpg",
+      desc: `CheatSheet for you to want become UI UX`,
+    },
+    {
+      id: 254,
+      title: "Kern Type",
+      category: "practice",
+      link: 'https://type.method.ac',
+      img: "./src/asset-254.jpg",
+      desc: `A game to learn how to kern type.`,
+    },
+    {
+      id: 255,
+      title: "Uxcel",
+      category: "practice",
+      link: 'https://uxcel.com',
+      img: "./src/asset-255.jpg",
+      desc: `Uxcel is an amazing community of designers focused on learning and validating their design skills. Learn Design. Access an extensive library of UX/UI design.`,
+    },
+    {
+      id: 256,
+      title: "Can't Unsee",
+      category: "practice",
+      link: 'https://cantunsee.space',
+      img: "./src/asset-256.jpg",
+      desc: `Can't Unsee. Can't Unsee. Can't Unsee. Can't Unsee. coin 000000. card. Select the design that is most correct. `,
+    },
+    {
+      id: 257,
+      title: "Synethesia",
+      category: "lifehack",
+      link: 'https://synthesia.io',
+      img: "./src/asset-257.jpg",
+      desc: `Synthesia AI Video platform. Create videos in minutes, not weeks · Create your videos in 40+ different languages.`,
+    },
+    {
+      id: 258,
+      title: "Many Pixels",
+      category: "illustration",
+      link: 'https://manypixels.co',
+      img: "./src/asset-258.jpg",
+      desc: `ManyPixels is a simple and affordable subscription-based, unlimited graphic design service. Get Your Graphic Design Team in a Few Clicks.`,
+    },
+    {
+      id: 259,
+      title: "Dicoding",
+      category: "course",
+      link: 'https://dicoding.com',
+      img: "./src/asset-259.jpg",
+      desc: `Dicoding adalah menjadi platform edukasi teknologi terdepan yang mendorong akses literasi digital yang lebih luas untuk semua.`,
+    },
+    
+    
+
 ];
 
 // get parent element
