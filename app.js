@@ -2083,8 +2083,38 @@ const menu = [
       img: "./src/asset-259.jpg",
       desc: `Dicoding adalah menjadi platform edukasi teknologi terdepan yang mendorong akses literasi digital yang lebih luas untuk semua.`,
     },
-    
-    
+    {
+      id: 260,
+      title: "FreeCodeCamp",
+      category: "course",
+      link: 'https://www.freecodecamp.org/learn/',
+      img: "./src/asset-260.jpg",
+      desc: `freeCodeCamp is a proven path to your first software developer job.`,
+    },
+    {
+      id: 261,
+      title: "NetaCad",
+      category: "course",
+      link: 'https://www.netacad.com/courses/programming/pcap-programming-essentials-python',
+      img: "./src/asset-261.jpg",
+      desc: `Programming skills open you up to careers in almost any industry and are required if you want to continue to more advanced and higher paying software development and engineering roles.`,
+    },
+    {
+      id: 262,
+      title: "Data Flair",
+      category: "course",
+      link: 'https://data-flair.training/python-course/',
+      img: "./src/asset-262.jpg",
+      desc: `A perfect blend of in-depth Python theoretical knowledge and strong practical skills, this Free course for Python introduces real-time Python projects to give you a headstart in learning Python and enables you to bag top Python jobs in the industry.`,
+    },
+    {
+      id: 263,
+      title: "Test Automation",
+      category: "course",
+      link: 'https://testautomationu.applitools.com',
+      img: "./src/asset-263.jpg",
+      desc: `Free test automation courses with videos, transcripts, quizzes, credits, ranks badges, and certificates!`,
+    },
 
 ];
 
