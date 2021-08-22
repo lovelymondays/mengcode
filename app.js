@@ -2115,7 +2115,14 @@ const menu = [
       img: "./src/asset-263.jpg",
       desc: `Free test automation courses with videos, transcripts, quizzes, credits, ranks badges, and certificates!`,
     },
-
+    {
+      id: 264,
+      title: "Harvard CV Template",
+      category: "cheatsheet",
+      link: 'https://ocs.fas.harvard.edu/resumes-cvs-cover-letters',
+      img: "./src/asset-264.jpg",
+      desc: `Free Template CV from Harvard`,
+    },
 ];
 
 // get parent element
