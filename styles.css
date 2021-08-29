@@ -109,6 +109,40 @@ h1 {
   position: relative;
   top: 6px;
 }
+.submit-btn {
+  padding: 10px;
+  color: #fdfcfc;
+  text-decoration: none;
+  background-color: #504e4e;
+  font-family: "IBM Plex Mono", monospace;
+  font-weight: 700;
+  font-size: 1em;
+  margin: 0.2%;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  border-radius: 10px;
+  /* -webkit-box-shadow: 0px 9px 0px, 0px 9px 25px;
+  -moz-box-shadow: 0px 9px 0px, 0px 9px 25px;
+  box-shadow: 0px 9px 0px, 0px 9px 25px; */
+  display: block;
+  border: none;
+
+  -webkit-transition: all 0.1s ease;
+  -moz-transition: all 0.1s ease;
+  -ms-transition: all 0.1s ease;
+  -o-transition: all 0.1s ease;
+  transition: all 0.1s ease;
+}
+
+.submit-btn:active {
+  -webkit-box-shadow: 0px 3px 0px rgba(56, 117, 208),
+    0px 3px 6px rgba(0, 0, 0, 0.9);
+  -moz-box-shadow: 0px 3px 0px rgba(56, 117, 208),
+    0px 3px 6px rgba(0, 0, 0, 0.9);
+  box-shadow: 0px 3px 0px rgba(56, 117, 208), 0px 3px 6px rgba(0, 0, 0, 0.9);
+  position: relative;
+  top: 6px;
+}
 
 .contribute p a {
   color: #fdfcfc;

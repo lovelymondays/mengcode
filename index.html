@@ -128,13 +128,15 @@ to help you growth.">
               </div>
               <div class="modal-overlay">
                 <div class="modal-container">
-                  <div class="form"  method="POST" data-netlify="true" value="recommend">
+                  <form class="form"  method="POST" data-netlify="true" value="recommend">
                     <input
                       type="text"
                       id="category"
                       class="form__input"
                       autocomplete="off"
                       placeholder=" "
+                      name="category"
+                      required
                     />
                     <br />
                     <label for="category" class="form__label">Category</label> <br />
@@ -144,6 +146,8 @@ to help you growth.">
                       class="form__input"
                       autocomplete="off"
                       placeholder=" "
+                      name="link"
+                      required
                     />
                     <br />
                     <label for="link" class="form__label">Link</label><br />
@@ -153,6 +157,8 @@ to help you growth.">
                       class="form__input"
                       autocomplete="off"
                       placeholder=" "
+                      name="title"
+                      required
                     />
                     <br />
                     <label for="title" class="form__label">Title</label><br />
@@ -162,10 +168,12 @@ to help you growth.">
                       class="form__input"
                       autocomplete="off"
                       placeholder=" "
+                      name="desc"
+                      required
                     />
                     <label for="desc" class="form__label">Short Description</label><br />
-                    <button class="filter-btn" type="submit">Submit</button>
-                  </div>
+                    <button class="submit-btn" type="submit">Submit</button>
+                  </form>
                   <button class="close-btn">
                     <i class="fas fa-times"></i>
                 </button>
