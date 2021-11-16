@@ -46,6 +46,7 @@ h1 {
   border: 1px solid #eaeaea;
   padding: 5px 10px;
   font-size: 2rem;
+  caret-color: #37668a;
 }
 
 #searchWrapper {
@@ -397,6 +398,16 @@ reduce the size of the label and move upwards
     display: grid;
     gap: 1rem;
     grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+    /* border: 2px solid red; */
+  }
+}
+
+@media only screen and (max-width: 300px) {
+  .section-center {
+    justify-items: start;
+    display: grid;
+    gap: 1rem;
+    grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
     /* border: 2px solid red; */
   }
 }
