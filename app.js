@@ -2139,7 +2139,7 @@ const menu = [
       img: "./src/asset-266.jpg",
       desc: `Update Dana Jobs / Internship`,
     },
-     {
+    {
       id: 267,
       title: "State of JS",
       category: "documentation",
@@ -2147,7 +2147,7 @@ const menu = [
       img: "./src/asset-267.jpg",
       desc: `Describing around JS`,
     },
-     {
+    {
       id: 268,
       title: "WowKi",
       category: "cheatsheet",
@@ -2163,7 +2163,7 @@ const menu = [
       img: "./src/asset-269.jpg",
       desc: `Material for Design UI UX`,
     },
-     {
+    {
       id: 270,
       title: "My Color Space",
       category: "color",
@@ -2190,7 +2190,7 @@ const menu = [
     {
       id: 273,
       title: "Tokopedia Academy",
-      category: "freelance",
+      category: "course",
       link: 'https://academy.tokopedia.com/events',
       img: "./src/asset-273.jpg",
       desc: `Tokopedia Academy/ Internship`,
@@ -2227,13 +2227,21 @@ const menu = [
       img: "./src/asset-277.jpg",
       desc: `Jobs Internship`,
     },
-        {
+    {
       id: 278,
       title: "Lapa Ninja",
       category: "illustration",
       link: 'https://www.lapa.ninja/blog/free-illustrations-library-for-your-project/',
       img: "./src/asset-278.jpg",
       desc: `Lots of free illustration`,
+    },
+    {
+      id: 279,
+      title: "dbb Telkom",
+      category: "freelance",
+      link: 'https://internship.ddbtelkom.id,
+      img: "./src/asset-279.jpg",
+      desc: `Program Internship PT. Telekomunikasi Indonesia Tbk Direktorat Digital Business (TELKOM DDB) memberikan kesempatan bagi mahasiswa/i untuk melakukan penelitian`,
     },
 ];
 
