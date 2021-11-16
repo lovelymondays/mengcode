@@ -2227,7 +2227,7 @@ const menu = [
       img: "./src/asset-277.jpg",
       desc: `Jobs Internship`,
     },
-    {
+        {
       id: 278,
       title: "Lapa Ninja",
       category: "illustration",
@@ -2237,12 +2237,12 @@ const menu = [
     },
     {
       id: 279,
-      title: "dbb Telkom",
+      title: "DBB Telkom",
       category: "freelance",
-      link: 'https://internship.ddbtelkom.id,
+      link: 'https://www.lapa.ninja/blog/free-illustrations-library-for-your-project/',
       img: "./src/asset-279.jpg",
       desc: `Program Internship PT. Telekomunikasi Indonesia Tbk Direktorat Digital Business (TELKOM DDB) memberikan kesempatan bagi mahasiswa/i untuk melakukan penelitian`,
-    },
+    }
 ];
 
 // get parent element
