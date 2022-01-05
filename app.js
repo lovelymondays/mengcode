@@ -2239,7 +2239,7 @@ const menu = [
       id: 279,
       title: "DBB Telkom",
       category: "freelance",
-      link: 'https://www.lapa.ninja/blog/free-illustrations-library-for-your-project/',
+      link: 'https://internship.ddbtelkom.id',
       img: "./src/asset-279.jpg",
       desc: `Program Internship PT. Telekomunikasi Indonesia Tbk Direktorat Digital Business (TELKOM DDB) memberikan kesempatan bagi mahasiswa/i untuk melakukan penelitian`,
     }
